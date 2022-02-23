@@ -21,6 +21,3 @@ def delete_pet(host, pet_id):
 
 def get_content(response):
     return json.loads(response.content)
-© 2022 GitHub, Inc.
-Terms
-Privacy
